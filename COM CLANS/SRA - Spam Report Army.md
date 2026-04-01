@@ -1,4 +1,4 @@
-# WIC Understanding of SRA (Spam Report Army) – Fully Detailed Document
+# SRA (Spam Report Army) – Fully Detailed Document
 
 **Document Version:** 1.0 (2026)  
 **Author:** WIC (WinterGate Intelligence Collective)  
