@@ -59,6 +59,4 @@ This discrepancy is a classic pattern in online "anti" or "report army" groups: 
 - **Why They "Lie"**: To recruit members, avoid platform bans on their own group, and maintain a veneer of legitimacy instead of being seen as coordinated harassers or drama participants.
 - **Defensive Relevance**: Groups like SRA highlight why robust server-side defenses (dynamic banning via CrowdSec, troll 200 responses on suspicious paths, strict rate limiting, GeoIP/ASN filtering) are necessary — they represent coordinated, persistent adversarial activity in online spaces.
 
-**End of Document**
-
 **WIC Note**: This analysis is derived from public server descriptions, community wikis, and observed behavioral patterns. SRA is one example of many "report armies" that blur the line between community moderation and organized disruption.
