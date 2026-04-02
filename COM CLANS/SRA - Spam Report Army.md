@@ -51,7 +51,7 @@ This discrepancy is a classic pattern in online "anti" or "report army" groups: 
 - Part of long-running "animation wars" and drama communities on YouTube (GoAnimate, VGCP, AUTTP, etc.).
 - Competes or allies with other similar groups in factional conflicts.
 - Exemplifies the weaponization of platform trust & safety systems by organized user groups.
-- In the context of server hardening (CrowdSec, troll responses, ASN blocks, rate limiting), SRA represents the **human-coordinated** equivalent of the automated scanners/probes your WinterGate setup is designed to detect and troll.
+- In the context of server hardening (CrowdSec, troll responses, ASN blocks, rate limiting), SRA represents the **human-coordinated** equivalent of the automated scanners/probes our WinterGate setup is designed to detect and troll.
 
 ## 6. WIC Assessment Summary
 - **True Nature**: Organized report brigade operating under military role-play branding.
