@@ -10,9 +10,7 @@
 | Category | Count |
 |---|---|
 | EXACT | 456 |
-| SIM | 0 |
 | MENTION | 170 |
-| ALIAS | 1 |
 
 ## EXACT Matches
 
