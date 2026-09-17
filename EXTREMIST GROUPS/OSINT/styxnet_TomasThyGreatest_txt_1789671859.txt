@@ -5,7 +5,7 @@ Generated: 2026-09-17 19:04:19 UTC
 Profiles found: 626
 Platforms: 5126/5121
 
-Summary — EXACT 456 / SIM 0 / MENTION 170 / ALIAS 1
+Summary — EXACT 456 / MENTION 170 
 
 EXACT MATCHES
 ----------------------------------------------
